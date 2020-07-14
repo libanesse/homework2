@@ -1,0 +1,144 @@
+*{
+
+    box-sizing: border-box;
+}
+body {
+    background-color: blanchedalmond;
+    font-family:'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+    color:#777777;
+   font-size: 18px;
+   line-height: 34px;
+   padding: 50;
+}
+#masterhead {
+    float: center;
+}
+.about-me {
+    border: white solid;
+}
+.picture {
+    border: black solid;
+}
+.navbar-menu {
+    margin-left: auto;
+}
+#mypic{
+    float: left;
+    width: 150px; height: 150px; 
+}
+.col-md-9{
+    margin-right: 0px;
+}
+
+
+
+.container{
+    width:100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    padding: 0px;
+}
+
+/*porfolio*/
+.portfolio-image {
+    width: 50%;
+    padding: 25px 25px 25px 25px;
+}
+
+.pics-of {
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80%;
+    padding: 20;
+}
+
+#m1 {
+    
+    border-style: solid;
+    border-with
+}
+
+/*footer*/
+footer{
+    background: #343a40;
+    color: #fff;
+    padding: 30px 0;
+    clear: both;
+    border-top: 8px solid #ffffff;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+/*contacts*/
+
+.contacts {
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 80%;
+    padding: 20;
+
+}
+
+#contact-form ul {
+    margin-bottom: 20px;
+}
+
+#contact-form li {
+    margin-bottom: 10px;
+
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea{
+    display: block;
+    width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea{
+    height: 35px;
+    border: 1px solid #dddddd;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+textarea{
+    height:200px;
+
+}
+
+input[type=submit]{
+    background: #777777;
+    border: 0 none;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+
+.Name{
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+margin: 20px 0px;
+width:100%;
+}
+
+.Email{
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+margin: 20px 0px;
+width:100%;
+}
+
+.message{
+    width:100%;
+}
+
