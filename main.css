@@ -26,10 +26,11 @@ body {
     float: left;
     width: 150px; height: 150px; 
 }
-.col-md-9{
-    margin-right: 0px;
-}
 
+
+.paragraph {
+    margin-right: auto;
+}
 
 
 .container{
