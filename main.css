@@ -25,6 +25,7 @@ body {
 #mypic{
     float: left;
     width: 150px; height: 150px; 
+    margin-right: 10px;
 }
 
 
@@ -58,7 +59,7 @@ body {
 #m1 {
     
     border-style: solid;
-    border-with
+    border-width: auto;
 }
 
 /*footer*/
@@ -143,3 +144,28 @@ width:100%;
     width:100%;
 }
 
+.card{
+    background-color: #343a40;
+    
+    
+}
+
+.card-card-body {
+    color: white;
+}
+
+#portfolio {
+    float: right;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0; 
+    width: 80%;
+    padding: 20;
+
+}
+
+#password {
+    float: none;
+    width: 150px; height: 150px; 
+    margin-right: 10px;
+}
